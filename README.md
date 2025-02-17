@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Konstantin Vogler
+#### What do I do?
+* Student at: [Keimgasse](https://keimgasse.at/)
+* (starting September) Studying at [HTL-Rennweg](https://www.htlrennweg.at/) in Vienna
 
-<!--
-**Vogler-K/Vogler-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Which <small>(programming)</small> languages ​​do I speak?
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+* <small>(English)</small>
+* <small>(German)</small>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Profiles
+* [![GitHub followers Vogler-K](https://img.shields.io/github/followers/Vogler-K)](https://github.com/Vogler-K/)
