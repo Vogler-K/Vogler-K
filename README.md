@@ -11,5 +11,8 @@
 * _(German)_
 
 #### My Profiles
+* [![npm profile](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&labelColor=FF0000&color=FF0000)](https://www.npmjs.com/~vogler-k)
+* [![PyPi](https://img.shields.io/badge/PyPi-blue?style=for-the-badge&logo=pypi&labelColor=005080&color=005080)](https://pypi.org/user/Vogler-K/)
+
 * [![GitHub followers Vogler-K](https://img.shields.io/github/followers/Vogler-K?style=for-the-badge&logo=Github&labelColor=404040&color=404040)](https://github.com/Vogler-K/)
 * [![Steam Profile](https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/RaspyHickory641_HH/)
