@@ -1,7 +1,6 @@
 ## Hi, I'm Konstantin Vogler
 #### What do I do?
-* Student at: [_Keimgasse_](https://keimgasse.at/)
-* (starting September) Studying at [_HTL-Rennweg_](https://www.htlrennweg.at/) in Vienna
+* Student at: [_HTL-Rennweg_](https://www.htlrennweg.at/)
 
 #### Which languages ​​do I speak?
 * [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
